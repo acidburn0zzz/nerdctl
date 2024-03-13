@@ -126,7 +126,7 @@ require (
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/tools v0.2.0 // indirect
 	google.golang.org/grpc v1.51.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
